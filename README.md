@@ -10,14 +10,12 @@ Actualmente trabajo con **Python, C#, Kotlin y Unity**, y disfruto creando proye
 - 🎓 Ingeniero Técnico de Telecomunicaciones**
 - 🎓 Estudiando Master Universitario de Inteligencia Artificial [VIU](https://www.universidadviu.com/es/master-inteligencia-artificial))**
 - 🧠 Experiencia en **análisis de datos**, **aprendizaje automático** y **desarrollo de juegos educativos**
-- 🔭 Actualmente desarrollando:
-  - Una app en **Kotlin + Firebase** para que niños aprendan matemáticas
 - 🌱 Aprendiendo más sobre **Machine Learning Engineering en Google Cloud**
 - 💬 Me interesa todo lo relacionado con:
   - 🚀 IA aplicada  
-  - 🎮 Unity y desarrollo de videojuegos  
   - 📊 Análisis de datos y visualización en Power BI  
   - 🧩 Proyectos educativos interactivos
+  - 🎮 Unity y desarrollo de videojuegos  
   - 🤖 Automatizaciones con n8n
 
 ---
@@ -31,30 +29,7 @@ Actualmente trabajo con **Python, C#, Kotlin y Unity**, y disfruto creando proye
 | 📊 Data | Power BI · Pandas · Keras |
 | 🧠 IA | NLP · Machine Learning · TensorFlow |
 
----
-
-## 📂 Proyectos destacados
-
----
-
 ## 📫 Cómo contactarme
 - ✉️ [rigelchulia@gmail.com](mailto:rigelchulia@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rigel-chuliá-ortega)
 - 🌐 [Portfolio personal](https://tuweb.com)
-
-<div align="center">
-
-### 📊 Mis proyectos destacados
-
-[![TiempoPor-Matematicas](https://github-readme-stats.vercel.app/api/pin/?username=Gelilillo&repo=TiempoPor-Matematicas&theme=tokyonight)](https://github.com/Gelilillo/TiempoPor-Matematicas)
-
-</div>
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gelilillo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gelilillo&layout=compact&theme=tokyonight)
-
-
-
-</div>
