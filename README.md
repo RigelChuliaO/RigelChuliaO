@@ -2,15 +2,14 @@
 
 **IA aplicada y datos · Entrega de proyectos técnicos de principio a fin**
 
-Ingeniero de telecomunicaciones. Diecinueve años dirigiendo proyectos técnicos —alcance,
-plazos, economía, equipo y cliente— y los tres últimos, en Accenture, construyendo y
+Ingeniero de telecomunicaciones. Diecinueve años dirigiendo proyectos técnicos , alcance,
+plazos, economía, equipo y cliente y los tres últimos, en Accenture, construyendo y
 manteniendo soluciones de datos e inteligencia artificial en entorno corporativo:
 un modelo predictivo en producción en Vertex AI, una integración propia entre BigQuery
 y modelos de lenguaje, y cuadros de mando sobre los que se tomaban decisiones.
 
 Ahora finalizo el Máster Universitario en Inteligencia Artificial (VIU), con un TFM
-experimental en visión por computador, y construyo en abierto los proyectos que hay
-aquí abajo.
+experimental en visión por computador, y construyo en abierto proyectos personales.
 
 📍 Zaragoza · Abierto a oportunidades como **AI Delivery Lead**, **AI Engineer** o
 **Data / AI Consultant**, en remoto o híbrido.
