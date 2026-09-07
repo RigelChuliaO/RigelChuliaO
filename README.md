@@ -52,7 +52,7 @@ Las separo por dónde las he usado, porque no es lo mismo:
 | | |
 |---|---|
 | **En entorno profesional** | Python · SQL · BigQuery · Vertex AI · Azure OpenAI Service · ETL/ELT · Looker Studio · Power BI (DAX) · Power Platform · Git |
-| **En proyectos y formación** | TensorFlow / Keras · Pandas · NumPy · LangChain · Kotlin y Jetpack Compose · Java · Firebase · API de Gemini · n8n |
+| **En proyectos y formación** | TensorFlow / Keras · Pandas · NumPy · LangChain · Kotlin y Jetpack Compose · Java · Firebase · API de Gemini |
 
 ---
 
@@ -75,7 +75,7 @@ Actualmente preparando la certificación **Google Cloud Professional Machine Lea
 <summary><b>In English</b></summary>
 
 Telecommunications engineer based in Zaragoza, Spain. Nineteen years leading technical
-projects end to end — scope, schedule, budget, team and client — and, for the last three
+projects end to end scope, schedule, budget, team and client and, for the last three
 at Accenture, building and running data and AI solutions in a corporate environment:
 a predictive model in production on Vertex AI, an in-house BigQuery-to-LLM integration
 processing up to 10,000 customer surveys per night, and the dashboards behind operational
