@@ -2,14 +2,15 @@
 
 **IA aplicada y datos · Entrega de proyectos técnicos de principio a fin**
 
-Ingeniero de telecomunicaciones. Diecinueve años dirigiendo proyectos técnicos , alcance,
+Ingeniero de telecomunicaciones. Diecinueve años dirigiendo proyectos técnicos  y su alcance,
 plazos, economía, equipo y cliente y los tres últimos, en Accenture, construyendo y
 manteniendo soluciones de datos e inteligencia artificial en entorno corporativo:
 un modelo predictivo en producción en Vertex AI, una integración propia entre BigQuery
 y modelos de lenguaje, y cuadros de mando sobre los que se tomaban decisiones.
 
 Ahora finalizo el Máster Universitario en Inteligencia Artificial (VIU), con un TFM
-experimental en visión por computador, y construyo en abierto proyectos personales.
+experimental en visión por computador, y construyo en abierto los proyectos que hay
+aquí abajo.
 
 📍 Zaragoza · Abierto a oportunidades como **AI Delivery Lead**, **AI Engineer** o
 **Data / AI Consultant**, en remoto o híbrido.
@@ -18,30 +19,45 @@ experimental en visión por computador, y construyo en abierto proyectos persona
 
 ## Proyectos
 
-### 🔧 [eng-spec-agent](https://github.com/USUARIO/eng-spec-agent) · *en desarrollo*
-Agente que compone la documentación técnica de proyectos de instalaciones a partir de
-la descripción del arquitecto y de un corpus de memorias ya validadas. Detecta datos
-que faltan, comprueba la normativa aplicable y redacta solo a partir de texto con
-trazabilidad.
+### ✨ [Análisis astrométrico del catálogo HYG v4.2](https://github.com/USUARIO/hyg-star-catalog-analysis)
+*Proyecto de máster (VIU) — calificación: sobresaliente.*
+Derivación de cuatro propiedades físicas que el catálogo no contiene —temperatura
+superficial por la relación de Ballesteros, color visual por la ley de Wien, radio estelar
+por Stefan-Boltzmann y conversión de distancias con **validación contra casos de control**:
+el Sol sale con menos de un 0,3 % de error y el ranking de magnitud reproduce el cielo real.
+
+Análisis propios sobre la cohesión física de las constelaciones y sobre el sesgo
+observacional del catálogo, y una sección de limitaciones que delimita dónde el método
+deja de ser fiable y por qué.
+
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` ·
+
+### 🔧 eng-spec-agent · *en desarrollo*
+Agente que compone la documentación técnica de proyectos de instalaciones a partir de la
+descripción del arquitecto y de un corpus de memorias ya validadas. Detecta datos que
+faltan, comprueba la normativa aplicable y redacta solo a partir de texto con trazabilidad.
 
 Principio de diseño: **el modelo no calcula ni inventa normativa**. Las reglas de
-aplicabilidad son código con tests; el texto sale de memorias reales; nada se afirma
-sin cita.
+aplicabilidad son código con tests; el texto sale de memorias reales; nada se afirma sin cita.
 
 `Python` · `LangGraph` · `RAG` · `embeddings` · `Chroma` · `Pydantic` · `FastAPI` · `pytest` · `GitHub Actions`
 
 ### 👁️ Face-PAD — Detección de ataques de presentación facial
 *Trabajo Fin de Máster (VIU, 2026). Defensa en septiembre de 2026.*
-Detección de ataques de fotografía impresa y reproducción en pantalla sobre sistemas de
-reconocimiento facial. Particiones sin fuga de información entre sujetos, ajuste fino de
-arquitecturas preentrenadas, evaluación de la generalización ante dominios no observados
-e interpretabilidad de las decisiones del modelo.
+Clasificación *live* vs *spoof* sobre CelebA-Spoof. CNN diseñada desde cero en PyTorch y
+rediseñada después contra el sobreajuste detectado en las curvas de validación: BatchNorm,
+dropout espacial y *global average pooling*. Particiones con semilla fija, bucle de
+entrenamiento propio con *early stopping* implementado a mano y demostrador en Gradio.
 
-### 🧮 Aplicación educativa de matemáticas con IA generativa
-*Proyecto Fin de Ciclo DAM, 2026 — calificación 10.*
-App Android para alumnado de 9 años, con generación dinámica de problemas de enunciado
-mediante la API de Gemini e ingeniería de prompts propia para controlar originalidad,
-nivel de lectura y contexto.
+`PyTorch` · `torchvision` · `Hugging Face Datasets` · `Gradio` · `CUDA`
+
+### Otros
+
+- **Aprendizaje por refuerzo profundo (Atari)** — DQN, Double DQN y Dueling DQN sobre
+  Space Invaders, 800.000 pasos de entrenamiento y evaluación sobre 100 episodios con
+  semillas fijas. Proyecto de máster en equipo.
+- **Aplicación educativa de matemáticas con IA generativa** — App Android con generación
+  dinámica de problemas mediante la API de Gemini. Proyecto Fin de Ciclo DAM, calificación 10.
 
 ---
 
@@ -52,7 +68,7 @@ Las separo por dónde las he usado, porque no es lo mismo:
 | | |
 |---|---|
 | **En entorno profesional** | Python · SQL · BigQuery · Vertex AI · Azure OpenAI Service · ETL/ELT · Looker Studio · Power BI (DAX) · Power Platform · Git |
-| **En proyectos y formación** | TensorFlow / Keras · Pandas · NumPy · LangChain · Kotlin y Jetpack Compose · Java · Firebase · API de Gemini |
+| **En proyectos y formación** | PyTorch · torchvision · Hugging Face Datasets · Gymnasium · Gradio · Pandas · NumPy · Matplotlib · Seaborn · LangChain · Kotlin y Jetpack Compose · Java · Firebase · API de Gemini |
 
 ---
 
